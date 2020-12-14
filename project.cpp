@@ -28,5 +28,6 @@ int main()
 
   } while (guess != magic);
 
+    cout << "hello";
   return 0;
 }
